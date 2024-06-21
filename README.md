@@ -1,4 +1,4 @@
-# ToDoList Challenge
+# ReciP'Easy Challenge
 
 Bienvenue dans le challenge **ReciP'Easy**. Ce projet consiste à Créez un site de recettes interactif avec des fonctionnalités de like, bookmark et des icônes de temps qui apparaissent au survol, en respectant le design fourni.
 
